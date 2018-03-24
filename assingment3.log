@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\adity\source\repos\assingment3\assingment3\source.cpp(122): warning C4018: '<': signed/unsigned mismatch
+c:\users\adity\source\repos\assingment3\assingment3\source.cpp(127): warning C4018: '<': signed/unsigned mismatch
+c:\users\adity\source\repos\assingment3\assingment3\source.cpp(141): warning C4018: '<': signed/unsigned mismatch
+c:\users\adity\source\repos\assingment3\assingment3\source.cpp(146): warning C4018: '<': signed/unsigned mismatch
+c:\users\adity\source\repos\assingment3\assingment3\source.cpp(163): warning C4018: '<': signed/unsigned mismatch
+c:\users\adity\source\repos\assingment3\assingment3\source.cpp(168): warning C4018: '<': signed/unsigned mismatch
+c:\users\adity\source\repos\assingment3\assingment3\source.cpp(174): warning C4018: '<': signed/unsigned mismatch
+c:\users\adity\source\repos\assingment3\assingment3\source.cpp(179): warning C4018: '<': signed/unsigned mismatch
+c:\users\adity\source\repos\assingment3\assingment3\source.cpp(34): warning C4101: 'OpetionForInOrOut': unreferenced local variable
+  assingment3.vcxproj -> C:\Users\adity\source\repos\assingment3\Debug\assingment3.exe
